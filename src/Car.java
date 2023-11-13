@@ -10,5 +10,7 @@ public class Car {
         System.out.println(7 / 0);
         System.out.println(7 / 0);
         System.out.println(7 / 0);
+        System.out.println(7 / 0);
+        System.out.println(7 / 0);
     }
 }
